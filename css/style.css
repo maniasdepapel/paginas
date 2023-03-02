@@ -2,8 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-color: bisque;
-
+    
     text-decoration: none;
 
     font-family: "Kefa";
@@ -14,6 +13,10 @@
 @font-face{
     font-family: "Kefa";
     src: url(../fonts/maniasdepapelFont.ttf);
+}
+
+body{
+    background-image: url(../img/bg.png);
 }
 
 main{
