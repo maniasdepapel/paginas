@@ -16,8 +16,9 @@
 }
 
 body{
-    background-image: url(../img/bg.png);
-    background-size: contain;
+    /*background-image: url(../img/bg.png);
+    background-size: contain;*/
+    background-color: #FFF3E4;
 }
 
 main{
@@ -94,13 +95,13 @@ li a{
 
 li a:hover{
     background-color: #FDEAE4;
-    color: #FC8599;
+    color: #FC406B;
 }
 
 .one{
-    background-color: #C6465F;
+    background-color: #FC406B;
 }
 
 .two{
-    background-color: #E092A0;
+    background-color: #FEA7AD;
 }
